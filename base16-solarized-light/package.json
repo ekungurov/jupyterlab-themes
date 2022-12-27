@@ -1,6 +1,6 @@
 {
-  "name": "@arbennett/base16-solarized-light",
-  "version": "0.1.4",
+  "name": "@ekungurov/base16-solarized-light",
+  "version": "0.1.5",
   "description": "A JupyterLab theme extension.",
   "author": "Andrew Bennett <bennett.andr@gmail.com>",
   "keywords": [
